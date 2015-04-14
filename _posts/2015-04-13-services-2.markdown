@@ -1,0 +1,21 @@
+---
+layout: default
+img: 277px-IPhone_4S_No_shadow.png
+category: Services
+title: Get the Mobile App<br>In Stores
+description: |
+  <p class="lead">Download the mobile app at the <a target="_blank"
+  href="http://apple.store.com/">App Store</a> and 
+  <a href="http://play.google.com">Play Store</a>. Follow the links to get them!</p>
+    
+  <div class="store-badges">
+    <div class="apple-store">
+      <img src="/img/App_Store_Badge_en_135x40.svg" alt="Vitial at App Store">
+    </div>
+    <div class="play-store">
+      <img src="/img/google-play-en_60.png" alt="Vitial at Google Play">
+    </div>
+  </div>
+  
+---
+

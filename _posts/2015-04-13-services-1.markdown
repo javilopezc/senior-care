@@ -1,0 +1,14 @@
+---
+layout: default
+img: images.jpg
+category: Services
+title: Bringing excellent senior care<br>As it should always be
+description: |
+  <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+  Quis vero maxime dolor explicabo ullam ipsam ducimus necessitatibus voluptatibus distinctio, 
+  dolore est facere alias, amet eveniet quam obcaecati. Eius, architecto facilis! 
+  A special thanks to <a target="_blank" href="http://javilopezc.github.io/javi-site/">Aptus Technica staffer</a>
+   for the detailed rework.
+  Visit their website to enquire more!</p>
+  
+---

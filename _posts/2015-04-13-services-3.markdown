@@ -1,0 +1,13 @@
+---
+layout: default
+img: coffee-leaves.jpg
+category: Services
+title: Seniors, Family and Caregivers<br>Get in touch with any
+description: |
+  <p class="lead">Constant and caring monitoring for the well-being of our seniors. <br>
+  This website features the 'Lato' font,
+  part of the <a target="_blank" href="http://www.google.com/fonts">Google
+  Web Font library</a>, as well as <a target="_blank"
+  href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+
+---

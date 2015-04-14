@@ -1,0 +1,59 @@
+<div class="banner">
+
+  <div class="container">
+
+      <div class="row">
+          
+            <div class="col-md-12">
+              <h2>Connect with Senior Care Agency</h2>
+            </div>
+
+          <div class="col-md-6">
+          
+              <ul class="list-inline banner-social-buttons">
+                  {% for social in site.data.settings.social %}
+                    {% if !social.shown %}
+                    <li>
+                      <a href="{{ social.url }}" 
+                        class="btn btn-default btn-lg">
+                          <i class="fa fa-{{ social.title }} fa-fw"></i>
+                           <span class="network-name">{{ social.title }}</span>
+                       </a>
+                    </li>
+                    {% endif %}
+                  {% endfor %}
+              </ul>
+          </div>
+
+          <div class="col-md-6">
+            <form class="contact-form" action="//formspree.io/your@email.com" role="form">
+              <div class="form-group row">
+                <div class="col-xs-12">
+                  <input type="text" class="form-control input-lg" name="name" placeholder="Your name">
+                </div>
+              </div>
+              <div class="form-group row">
+                <div class="col-xs-12">
+                  <input type="email" class="form-control input-lg" name="_replyto" placeholder="Enter email">
+                </div>
+              </div>
+              <div class="form-group row">
+                <div class="col-xs-12">
+                  <textarea name="message" class="form-control input-lg" placeholder="Enter message"></textarea>
+                </div>
+              </div>
+              <div class="form-group">
+                <input type="submit" class="btn btn-lg btn-submit" value="Send">
+              </div>
+            </form>
+
+          </div>
+      </div>
+
+  </div>
+  <!-- /.container -->
+
+
+</div>
+<!-- /.banner -->
+
